@@ -1,0 +1,14 @@
+{
+    "models": [
+        "railgun/mikoto",
+        "railgun/kuroko",
+        "railgun/saten",
+        "railgun/uiharu"
+    ],
+    "messages": [
+        "御坂美琴",
+        "白井黑子",
+        "佐天泪子",
+        "初春饰利"
+    ]
+}
